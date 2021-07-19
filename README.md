@@ -4,7 +4,7 @@
 - 💬 加个微信：lj18379991972
 - 🏡 关注公众号：[婧大] 爱生活和代码
 - 📫 个人博客：[婧大的知识小屋](https://jingjingjinjin.xyz/)
-- 📚 掘金小册：[婧大的掘金首页](https://juejin.cn/user/3984285871907991/posts)
+- 📚 掘金主页：[婧大的掘金首页](https://juejin.cn/user/3984285871907991/posts)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=PDKSophia&show_icons=true" alt="1024bibi.com" style="margin-top: 100px;" /> -->
